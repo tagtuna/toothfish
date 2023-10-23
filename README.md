@@ -1,2 +1,2 @@
-# toothfish
-Data and codebase for toothfish research
+# Electronic tagging of toothfish 
+Data and codebase for toothfish e-tag research
